@@ -29,10 +29,13 @@ ____
 ___
 ![](Images/Healthcare_Analysis1.png)
 ___
+
 ![](Images/Healthcare_Analysis2.png)
 ___
+
 ![](Images/Healthcar_Analysis3.png)
 ___
+
 ![](Images/Healthcare_Analysis4.png)
 ___
 
@@ -41,20 +44,25 @@ ___
 # KEY INSIGHTS
 ___
 •	Urgent admissions show consistent variations throughout the year.
+
 •	Elective and emergency admissions exhibit fluctuations with noticeable peaks in certain months (e.g., October and April).
+
 •	Obesity and hypertension have the highest average length of stays (16 days each).
+
 •	Arthritis and asthma patients have relatively shorter stays (15 days each).
+
 •	Most of the patients fell within the age group of retirees and who were women had more admission cases than men.
   Women had more cases of asthma, cancer, obesity and diabetes while men had more cases of hypertension and arthritis.
 ___  
 # RECOMMENDATIONS & CONCLUSION
 ___
 The following recommendations were made:
+
 With urgent admissions varying throughout the year and peaks in elective and emergency during October and April, hospitals should enhance staffing, equipment readiness, and bed availability during those high-demand months.
 
 Focus on Preventive Programs for obesity and hypertension. Since obesity and hypertension contribute to the longest hospital stays, hospitals can implement community education and wellness programs focusing on lifestyle changes, early diagnosis and disease managment to reduce in-patient length of stay.
 
-Introduce targeted screening for obesity, hypertension, asthma, cancer and diabetes within the high-risk group(e.g. retireees and women)
+Introduce targeted screening for obesity, hypertension, asthma, cancer and diabetes within the high-risk group(e.g. retireees and women).
 
 
 
